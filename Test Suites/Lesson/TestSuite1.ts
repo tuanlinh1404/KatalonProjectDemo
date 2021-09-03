@@ -15,13 +15,13 @@
       <guid>c10f5cdb-474a-4f54-85cc-1315d8c6cec1</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/RecordTestCase</testCaseId>
+      <testCaseId>Test Cases/Lesson/RecordTestCase</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>0edf60d2-5731-49a4-aceb-c85ab58c89f6</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TestCase1</testCaseId>
+      <testCaseId>Test Cases/Lesson/TestCase1</testCaseId>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
