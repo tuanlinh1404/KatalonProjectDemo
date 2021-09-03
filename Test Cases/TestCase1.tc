@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TestCase1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f49dd383-f894-4c8f-b1b9-a4c05bfdaad9</testCaseGuid>
+   <variable>
+      <defaultValue>'https://www.google.com.vn/'</defaultValue>
+      <description></description>
+      <id>c816096d-c796-404d-bae8-2b96b46ea122</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>
