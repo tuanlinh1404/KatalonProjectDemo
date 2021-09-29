@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Assignment3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ab930cea-62cf-4b57-a768-2c05843ccba2</testCaseGuid>
+   <variable>
+      <defaultValue>'http://the-internet.herokuapp.com/login'</defaultValue>
+      <description></description>
+      <id>fae2f400-ef73-4c96-ab83-570d1ddd420e</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'linhbui'</defaultValue>
+      <description></description>
+      <id>caddca53-2e13-467e-b320-c31036695cc4</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'aeHFOx8jV/A='</defaultValue>
+      <description></description>
+      <id>bdbc6b5b-6ebb-498d-958c-35c0255b106f</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'Your username is invalid!'</defaultValue>
+      <description></description>
+      <id>0d726fc1-92e0-453a-91c6-aad60ad4b8d1</id>
+      <masked>false</masked>
+      <name>invalid_message</name>
+   </variable>
+   <variable>
+      <defaultValue>'You logged into a secure area!'</defaultValue>
+      <description></description>
+      <id>c31afc68-2de1-4df2-8959-3e43109c60cd</id>
+      <masked>false</masked>
+      <name>valid_message</name>
+   </variable>
+</TestCaseEntity>

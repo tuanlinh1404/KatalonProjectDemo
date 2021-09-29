@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Assignment2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cd3cec39-d99e-461d-9f65-6ee5c328b9a4</testCaseGuid>
+   <variable>
+      <defaultValue>'https://www.nopcommerce.com/en/login?returnUrl=%2Fen%2Fdemo'</defaultValue>
+      <description></description>
+      <id>8ff2ad39-2649-4fd9-abf5-394c68514b31</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'linhbui'</defaultValue>
+      <description></description>
+      <id>5730969b-ff0c-4c1f-b231-f53763158e4a</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'aeHFOx8jV/A='</defaultValue>
+      <description></description>
+      <id>03335546-1cba-4c8a-97d6-3c04fccfe377</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
